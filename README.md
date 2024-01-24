@@ -4,7 +4,16 @@
 
 Latest projects
 
-Languages and tools
+### Languages and tools
+![Trello](https://img.shields.io/badge/Trello-4169e1?style=for-the-badge&logo=Trello)
+![YouTrack](https://img.shields.io/badge/YouTrack-010405?style=for-the-badge&logo=YouTrack)
+![Jira](https://img.shields.io/badge/Jira-0C66E4?style=for-the-badge&logo=Jira)
+![TestRail](https://img.shields.io/badge/TestRail-233C51?style=for-the-badge&logo=TestRail)
+![Qase](https://img.shields.io/badge/Qase-8e58ff?style=for-the-badge&logo=Qase)
+![Figma](https://img.shields.io/badge/Figma-505050?style=for-the-badge&logo=Figma)
+![SQL](https://img.shields.io/badge/SQL-008000?style=for-the-badge&logo=SQL)
+![Selenium](https://img.shields.io/badge/Selenium-444444?style=for-the-badge&logo=Selenium)
+![Postman](https://img.shields.io/badge/Postman-232020?style=for-the-badge&logo=Postman)
 
 Follow Me
 
