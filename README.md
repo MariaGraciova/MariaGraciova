@@ -14,5 +14,11 @@ Latest projects
 ![Selenium](https://img.shields.io/badge/Selenium-444444?style=for-the-badge&logo=Selenium)
 ![Postman](https://img.shields.io/badge/Postman-232020?style=for-the-badge&logo=Postman)
 
-Follow Me
+###Follow Me
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-4169e1?style=for-the-badge&logo=Linkedin&logoColor)](https://www.linkedin.com/in/maria-graciova/)
+[![Telegram](https://img.shields.io/badge/Telegram-010405?style=for-the-badge&logo=Telegram)](https://t.me/GraciovaMaria)
+[![Facebook](https://img.shields.io/badge/Facebook-233C51?style=for-the-badge&logo=Facebook)](https://www.facebook.com/danishevskaya.ma)
+
+
 
